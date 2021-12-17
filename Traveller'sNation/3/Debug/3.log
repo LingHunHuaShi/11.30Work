@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\nicho\Desktop\12.13\3\3\源.cpp(27,6): warning C4101: “a”: 未引用的局部变量
+C:\Users\nicho\Desktop\12.13\3\3\源.cpp(27,18): warning C4101: “e”: 未引用的局部变量
+C:\Users\nicho\Desktop\12.13\3\3\源.cpp(27,9): warning C4101: “b”: 未引用的局部变量
+C:\Users\nicho\Desktop\12.13\3\3\源.cpp(27,21): warning C4101: “f”: 未引用的局部变量
+C:\Users\nicho\Desktop\12.13\3\3\源.cpp(27,12): warning C4101: “c”: 未引用的局部变量
+C:\Users\nicho\Desktop\12.13\3\3\源.cpp(27,15): warning C4101: “d”: 未引用的局部变量
+  3.vcxproj -> C:\Users\nicho\Desktop\12.13\3\Debug\3.exe
