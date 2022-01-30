@@ -1,0 +1,5 @@
+﻿  SortStringsAndCount.cpp
+D:\CppLearningHomework\StringZip\StringZip\SortStringsAndCount.cpp(46,28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\CppLearningHomework\StringZip\StringZip\SortStringsAndCount.cpp(48,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\CppLearningHomework\StringZip\StringZip\SortStringsAndCount.cpp(44,19): warning C4101: “sorted”: 未引用的局部变量
+  StringZip.vcxproj -> D:\CppLearningHomework\StringZip\x64\Debug\StringZip.exe

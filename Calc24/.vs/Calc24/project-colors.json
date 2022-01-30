@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "4fecc068-7aaa-4e6c-b070-7eac43d2afc5": {
+      "ProjectGuid": "4fecc068-7aaa-4e6c-b070-7eac43d2afc5",
+      "DisplayName": "Calc24",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\CppLearningHomework\Calc24\Calc24\源.cpp(77,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\CppLearningHomework\Calc24\Calc24\源.cpp(78,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\CppLearningHomework\Calc24\Calc24\源.cpp(79,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\CppLearningHomework\Calc24\Calc24\源.cpp(80,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\CppLearningHomework\Calc24\Calc24\源.cpp(132,6): warning C4101: “flag”: 未引用的局部变量
+  Calc24.vcxproj -> D:\CppLearningHomework\Calc24\x64\Debug\Calc24.exe

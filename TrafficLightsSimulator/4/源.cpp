@@ -2,11 +2,11 @@
 using namespace std;
 #include<Windows.h>
 #include<time.h>
-string light[3] = { "ºì","»Æ","ÂÌ" };
+string light[3] = { "çº¢","é»„","ç»¿" };
 
 void outcar(int car1, int car2)
 {
-	cout << "ÕýÏò³µÁ÷£º" << car1 << "  ·´Ïò³µÁ÷£º" << car2 << endl;
+	cout << "æ­£å‘è½¦æµï¼š" << car1 << "  åå‘è½¦æµï¼š" << car2 << endl;
 }
 
 void output(string lt1,string lt2,string lt3,string lt4, int car1, int car2,int flag)
@@ -24,15 +24,15 @@ void output(string lt1,string lt2,string lt3,string lt4, int car1, int car2,int 
 	cout << "        |    |          " << endl;
 	cout << "        | " << lt1 << " | " << endl;
 	if (car1 / car2 >= 3 || car2 / car1 >= 3)
-		cout << "³µÁ÷¹ý¶à£¬ÂÌµÆÑÓ³Ù3Ãë" << endl;
+		cout << "è½¦æµè¿‡å¤šï¼Œç»¿ç¯æ—¶é—´å»¶é•¿" << endl;
 	if (flag == 2)
-		cout << "½ô¼±³µÁ¾ÓÅÏÈÍ¨ÐÐ£¡£¡" << endl;
+		cout << "æœ‰ç´§æ€¥è½¦è¾†" << endl;
 	cout << endl << endl;
 }
 
 void change(string & lt1, string & lt2, string & lt3, string & lt4, int car1, int car2,int flag )
 {
-	if (lt1== "ºì"&&lt2=="ÂÌ")
+	if (lt1== "çº¢"&&lt2=="ç»¿")
 	{
 		for (int i = 0; i < 3; i++)
 		{
@@ -48,7 +48,7 @@ void change(string & lt1, string & lt2, string & lt3, string & lt4, int car1, in
 		lt1 = lt3 = light[2];
 		output(lt1, lt2, lt3, lt4, car1, car2, flag);
 	}
-	else if(lt1=="ÂÌ"&&lt2=="ºì")
+	else if(lt1=="ç»¿"&&lt2=="çº¢")
 	{
 		for (int i = 0; i < 6; i++)
 		{

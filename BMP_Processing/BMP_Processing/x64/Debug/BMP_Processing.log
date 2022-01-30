@@ -1,0 +1,13 @@
+﻿  源.cpp
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(19,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(21,13): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(43,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(45,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(58,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(66,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(96,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(98,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\CppLearningHomework\BMP_Processing\BMP_Processing\源.cpp(73,8): warning C4101: “bitCorlorUsed”: 未引用的局部变量
+  BMP_Processing.vcxproj -> D:\CppLearningHomework\BMP_Processing\x64\Debug\BMP_Processing.exe
